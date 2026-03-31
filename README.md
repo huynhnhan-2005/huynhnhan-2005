@@ -1,22 +1,29 @@
 <!-- ===== HEADER BANNER ===== -->
 <h1 align="center"> Huỳnh Chơn Thành Nhân
-<h3 align="center">[Your Title: Data Analyst | Data Scientist | BI Analyst]</h3>
+<h3 align="center">[Your Title: Data Analyst | Data Engineer | Financial Analyst]</h3>
 
 <p align="center">
   <img src="[YOUR_BANNER_OR_GIF_LINK]" />
+</p>
+
+<!-- ===== CONTACT ===== -->
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nh%C3%A2n-hu%E1%BB%B3nh-ch%C6%A1n-th%C3%A0nh-aa640428a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="huynhchonthanhnhan@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
+  <a href="https://drive.google.com/drive/folders/1oIpIbSBkI9PujwFj-RsO_-5Nav4Taghu?usp=sharing"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox"></a>
 </p>
 
 ---
 
 <!-- ===== ABOUT ME ===== -->
 ## 👨‍💻 About Me
-
-- 🎯 I’m currently working on: **[Your current focus/project]**
-- 🌱 I’m currently learning: **[Skills you are learning]**
-- 👯 I’m looking to collaborate on: **[Type of projects]**
-- 💬 Ask me about: **[Your strengths: Python, SQL, etc.]**
-- 📫 How to reach me: **[Email or LinkedIn]**
-- ⚡ Fun fact: **[Something human/personal]**
+Hello! I'm Thanh Nhan, a passionate International Finance student at Foreign Trade University HCMC Campus, currently specializing in Data Analytics, Data Engineering and Financial Analysis. I'm driven by the mission to extract meaningful insights from data and solve real-world problems using cutting-edge technologies.
+- 🎯 I’m currently working on: **Banking Credit Risk Analytics Project Using PowerBI and SQL**
+- 🌱 I’m currently learning: **Python, SQL for Data Analytics and Financial Analysis**
+- 👯 I’m looking to collaborate on projects related to: **Credit Risk Analytics / Financial Modeling / ETL pipeline**
+- 📫 How to reach me: **LinkedIn, Facebook or Email**
 
 ---
 
@@ -34,11 +41,10 @@
 
 ### 📈 Visualization
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Obsidian](https://img.shields.io/badge/-Obsidian-black?style=flat-square&logo=obsidian)
 
 ---
 
@@ -65,17 +71,13 @@
 
 ---
 
-<!-- ===== TOP LANGUAGES ===== -->
-## 🧠 Most Used Languages
+## 🎓 Certifications
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
-
-<!-- ===== CONTACT ===== -->
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nh%C3%A2n-hu%E1%BB%B3nh-ch%C6%A1n-th%C3%A0nh-aa640428a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://drive.google.com/drive/folders/1oIpIbSBkI9PujwFj-RsO_-5Nav4Taghu?usp=sharing"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox"></a>
+  <a href="[IELTS_CERTIFICATE_LINK]">
+    <img src="https://img.shields.io/badge/-IELTS%20[7.5]-blue?style=for-the-badge&logo=britishcouncil&logoColor=white">
+  </a>
+  <a href="[DATACAMP_DATAANALYST_CERTIFICATE_LINK]">
+    <img src="https://img.shields.io/badge/-DATACAMP-green?style=for-the-badge&logo=britishcouncil&logoColor=">
+  </a>
 </p>
