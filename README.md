@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
 <h1 align="center"> Huỳnh Chơn Thành Nhân
-<h3 align="center">[Your Title: Data Analyst | Data Engineer | Financial Analyst]</h3>
+<h3 align="center">[Data Analyst | Data Engineer | Financial Analyst]</h3>
 
 <p align="center">
   <img src="[YOUR_BANNER_OR_GIF_LINK]" />
@@ -51,16 +51,16 @@ Hello! I'm Thanh Nhan, a passionate International Finance student at Foreign Tra
 <!-- ===== FEATURED PROJECTS ===== -->
 ## 📂 Featured Projects
 
-### 🔹 [Project Name 1]
-- 📌 Description: [Short business problem]
-- 🛠️ Tech: `Python`, `SQL`, `ML`
-- 📊 Result: [Key insight/result]
-- 🔗 [View Project](LINK_HERE)
+### 🔹 [Marketing Campaign Optimization & Fraud Detection using Machine Learning]
+- 📌 Problem & Solution: Develope an automated fraud detection solution and real-time monitoring system to effectively mitigate promotion abuse.
+- 🛠️ Tech: `Python`, `SQL`, `PowerBI`, `Power Query`
+- 📊 Tasks: Performed rigorous data cleaning on multi-relational dataset of 7 tables with over 500,000 records, resolving schema inconsistencies and missing values to ensure data integrity for the modeling stage
+- 🔗 [View Project](https://drive.google.com/drive/folders/1ZpL0jIPC5Z8KKa9cu3uUFsJnR4n3kKlz?usp=drive_link)
 
-### 🔹 [Project Name 2]
-- 📌 Description: [...]
-- 🛠️ Tech: [...]
-- 📊 Result: [...]
+### 🔹 [Aurora Bank - Credit Revenue Maximization and Risk Optimization using PowerBI]
+- 📌 Description: Aurora Bank aims to resolve the critical tension between aggressive growth and capital preservation. Specifically, the challenge lies in maximizing credit profitability through hyper-personalized customer profiling while simultaneously fortifying risk controls to preemptively detect fraud and manage deteriorating Debt-to-Income (DTI) ratios in real-time.
+- 🛠️ Tech: `SQL`, `PowerBI`, `Power Query`
+- 📊 Result: 
 - 🔗 [View Project](LINK_HERE)
 
 ### 🔹 [Project Name 3]
